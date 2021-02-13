@@ -14,4 +14,4 @@ Files used include chicago.csv, new_york_city.csv and washington.csv
 Lovely stuff. Even more lovely stuff.
 
 ### Credits
-Udacity
+Udacity. Pretty much just udacity.
