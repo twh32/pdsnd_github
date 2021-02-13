@@ -200,6 +200,7 @@ def display_raw_data(df):
     pd.set_option('display.max_columns',200)
 
     while True:
+    # Asks if user wants to see five more lines of code
         if raw == 'no':
             break
         elif raw == 'yes':
@@ -221,6 +222,7 @@ def main():
         display_raw_data(df)
 
         restart = input('\nWould you like to restart? Enter yes or no.\n')
+        # Ask the user if they want to restart the analysis 
         if restart.lower() != 'yes':
             print("Goodbye!")
             break
