@@ -222,6 +222,7 @@ def main():
         display_raw_data(df)
 
         restart = input('\nWould you like to restart? Enter yes or no.\n')
+        # Ask the user if they want to restart the analysis 
         if restart.lower() != 'yes':
             print("Goodbye!")
             break
