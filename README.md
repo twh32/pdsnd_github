@@ -11,7 +11,7 @@ This project creates descriptive statistics for bike share for 3 US cities.
 Files used include chicago.csv, new_york_city.csv and washington.csv
 
 ### Placeholder
-Lovely stuff
+Lovely stuff. Even more lovely stuff.
 
 ### Credits
 Udacity
